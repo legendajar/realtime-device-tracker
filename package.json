@@ -1,0 +1,19 @@
+{
+  "name": "realtime-device-track",
+  "version": "1.0.0",
+  "description": "This is the realtime device tracker to track two devices at a same time. It can be used in zomato, swiggy, OLA, Uber etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legendajar/realtime-device-tracker.git"
+  },
+  "author": "legendajar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legendajar/realtime-device-tracker/issues"
+  },
+  "homepage": "https://github.com/legendajar/realtime-device-tracker#readme"
+}
