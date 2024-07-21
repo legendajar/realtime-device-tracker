@@ -45,7 +45,7 @@ To get started with the To-Do Application, follow these steps:
 4. **Start Development Server**
 
    ```bash
-   npm start
+   npm app.js
 
 **Note - The application will be available at http://localhost:3000.**
 
