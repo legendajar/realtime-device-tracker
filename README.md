@@ -11,11 +11,11 @@ Bidirectional communication using Socket.IO for real-time data exchange.
 
 - **Device Management:**:Add, update, and remove devices.Unique identification for each device.
 
-- **Geolocation:**Integration with geolocation services (e.g., GPS, IP-based geolocation).
+- **Geolocation:**:Integration with geolocation services (e.g., GPS, IP-based geolocation).
 
-- **Map Integration:**Integration with mapping services (e.g., Google Maps, OpenStreetMap).Display device locations on an interactive map. Real-time updates of device positions on the map.
+- **Map Integration:**:Integration with mapping services (e.g., Google Maps, OpenStreetMap).Display device locations on an interactive map. Real-time updates of device positions on the map.
 
-- **User Interface:**Intuitive and responsive UI for managing devices and viewing their locations.Real-time notifications for device status changes.Customizable dashboards and views.
+- **User Interface:**:Intuitive and responsive UI for managing devices and viewing their locations.Real-time notifications for device status changes.Customizable dashboards and views.
 
 ## Technologies Used
 
